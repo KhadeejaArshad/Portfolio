@@ -82,6 +82,7 @@ const styles = StyleSheet.create({
   },
   text:{
     fontSize:18,
+    color:'black',
   
     marginVertical:10
   }

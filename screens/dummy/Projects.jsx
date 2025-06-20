@@ -36,7 +36,7 @@ export const Projects = [
    {
     id: 'p4',
     title: 'FavouritePlace',
-    screenName:'AddGoal',
+    screenName:'FavouritePlace',
     image:
       'https://i.pinimg.com/originals/09/e8/1e/09e81e3d352570a5c48dc02d36166883.gif',
     color: '#f9c2ff',
@@ -44,7 +44,7 @@ export const Projects = [
    {
     id: 'p5',
     title: 'Notification',
-    screenName:'AddGoal',
+    screenName:'Notification',
     image:
       'https://i.pinimg.com/originals/23/18/2b/23182bc3afe21ba46518af7ea9a76e7d.gif',
     color: '#b3e5fc',

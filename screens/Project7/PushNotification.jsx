@@ -137,8 +137,8 @@ export default function PushNotification() {
       body: joke.setup,
       android: {
         channelId,
-        smallIcon: 'ic_notification',
-        largeIcon: 'ic_notification',
+        // smallIcon: 'ic_notification',
+        // largeIcon: 'ic_notification',
         pressAction: {
           id: 'default',
         },
@@ -157,8 +157,8 @@ export default function PushNotification() {
         body: joke.punchline || '...and that’s the punchline!',
         android: {
           channelId,
-          smallIcon: 'ic_notification',
-          largeIcon: 'ic_notification',
+          // smallIcon: 'ic_notification',
+          // largeIcon: 'ic_notification',
           pressAction: {
             id: 'default',
           },
